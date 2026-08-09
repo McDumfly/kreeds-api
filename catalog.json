@@ -1,0 +1,8 @@
+[
+  {
+    "id": "teszt",
+    "title": "Teszt",
+    "author": "Gemini",
+    "available_languages": ["hu", "en"]
+  }
+]
