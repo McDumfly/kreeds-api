@@ -4,5 +4,11 @@
     "title": "Teszt",
     "author": "Gemini",
     "available_languages": ["hu", "en"]
+  },
+  {
+    "id": "teszt2",
+    "title": "Teszt2",
+    "author": "Gemini",
+    "available_languages": ["hu", "en"]
   }
 ]
