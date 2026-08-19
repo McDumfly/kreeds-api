@@ -18,5 +18,25 @@
       "en"
     ],
     "difficulty": "A1"
+  },
+  {
+    "id": "auto_20260819_1155_a1",
+    "title": "The Secret Map",
+    "author": "AI",
+    "available_languages": [
+      "hu",
+      "en"
+    ],
+    "difficulty": "A1"
+  },
+  {
+    "id": "auto_20260819_1155_a2",
+    "title": "City of Lights",
+    "author": "AI",
+    "available_languages": [
+      "hu",
+      "en"
+    ],
+    "difficulty": "A2"
   }
 ]
