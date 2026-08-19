@@ -18,25 +18,5 @@
       "en"
     ],
     "difficulty": "A1"
-  },
-  {
-    "id": "auto_20260819_1151_a1",
-    "title": "The Lost Cat",
-    "author": "AI",
-    "available_languages": [
-      "hu",
-      "en"
-    ],
-    "difficulty": "A1"
-  },
-  {
-    "id": "auto_20260819_1151_a2",
-    "title": "The Mysterious Island",
-    "author": "AI",
-    "available_languages": [
-      "hu",
-      "en"
-    ],
-    "difficulty": "A2"
   }
 ]
