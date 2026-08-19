@@ -3,14 +3,40 @@
     "id": "teszt",
     "title": "Teszt",
     "author": "Gemini",
-    "available_languages": ["hu", "en"],
+    "available_languages": [
+      "hu",
+      "en"
+    ],
     "difficulty": "A1"
   },
   {
     "id": "teszt2",
     "title": "Teszt2",
     "author": "Gemini",
-    "available_languages": ["hu", "en"],
+    "available_languages": [
+      "hu",
+      "en"
+    ],
     "difficulty": "A1"
+  },
+  {
+    "id": "auto_20260819_1145_a1",
+    "title": "The Secret Map",
+    "author": "AI",
+    "available_languages": [
+      "hu",
+      "en"
+    ],
+    "difficulty": "A1"
+  },
+  {
+    "id": "auto_20260819_1145_a2",
+    "title": "Night at the Museum",
+    "author": "AI",
+    "available_languages": [
+      "hu",
+      "en"
+    ],
+    "difficulty": "A2"
   }
 ]
