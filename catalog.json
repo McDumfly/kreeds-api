@@ -38,5 +38,25 @@
       "en"
     ],
     "difficulty": "A2"
+  },
+  {
+    "id": "auto_20260820_0302_a1",
+    "title": "The Mystery Box",
+    "author": "AI",
+    "available_languages": [
+      "hu",
+      "en"
+    ],
+    "difficulty": "A1"
+  },
+  {
+    "id": "auto_20260820_0302_a2",
+    "title": "The Midnight Train",
+    "author": "AI",
+    "available_languages": [
+      "hu",
+      "en"
+    ],
+    "difficulty": "A2"
   }
 ]
