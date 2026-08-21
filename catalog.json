@@ -58,5 +58,25 @@
       "en"
     ],
     "difficulty": "A2"
+  },
+  {
+    "id": "auto_20260821_0309_a1",
+    "title": "The Secret Map",
+    "author": "AI",
+    "available_languages": [
+      "hu",
+      "en"
+    ],
+    "difficulty": "A1"
+  },
+  {
+    "id": "auto_20260821_0309_a2",
+    "title": "The Midnight Mystery",
+    "author": "AI",
+    "available_languages": [
+      "hu",
+      "en"
+    ],
+    "difficulty": "A2"
   }
 ]
