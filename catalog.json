@@ -78,5 +78,25 @@
       "en"
     ],
     "difficulty": "A2"
+  },
+  {
+    "id": "auto_20260822_0259_a1",
+    "title": "The Secret Map",
+    "author": "AI",
+    "available_languages": [
+      "hu",
+      "en"
+    ],
+    "difficulty": "A1"
+  },
+  {
+    "id": "auto_20260822_0259_a2",
+    "title": "Mystery of the Clock Tower",
+    "author": "AI",
+    "available_languages": [
+      "hu",
+      "en"
+    ],
+    "difficulty": "A2"
   }
 ]
